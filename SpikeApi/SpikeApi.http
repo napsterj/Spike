@@ -1,0 +1,6 @@
+@SpikeApi_HostAddress = http://localhost:5188
+
+GET {{SpikeApi_HostAddress}}/login/
+Accept: application/json
+
+###
